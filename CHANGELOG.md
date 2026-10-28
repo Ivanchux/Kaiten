@@ -7,6 +7,7 @@
 - «Gastado» suma lo que costó cada comida guardada (ya no cambia hacia atrás al modificar el precio por pieza).
 - Deshacer (−1) resta de una pieza que exista aunque hayas cambiado de tipo.
 - «Borrar todo» también elimina las fotos guardadas.
+- Fondo de adorno en temas oscuros: el arroz de los nigiri y onigiri se veía casi negro; ahora se ve blanco.
 - Manifest: `id` propio e iconos «any» y «maskable» separados.
 
 ## 1.7.0
