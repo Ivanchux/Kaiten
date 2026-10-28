@@ -1,0 +1,43 @@
+{
+ "id": "./",
+ "name": "Kaiten",
+ "short_name": "Kaiten",
+ "description": "Cuenta tus piezas de sushi, sube de nivel y completa retos",
+ "lang": "es",
+ "start_url": ".",
+ "scope": ".",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#fafaf7",
+ "theme_color": "#ff7a2f",
+ "categories": [
+  "food",
+  "lifestyle",
+  "games"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}
